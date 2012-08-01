@@ -1,5 +1,5 @@
 ==================
-Django at a glance
+장고 힐끗보기
 ==================
 
 Because Django was developed in a fast-paced newsroom environment, it was
